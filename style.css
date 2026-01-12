@@ -1,0 +1,70 @@
+body {
+font-family: Arial, sans-serif;
+background: #eee;
+}
+
+.cv {
+width: 900px;
+margin: 30px auto;
+display: flex;
+background: white;
+}
+
+/* LEFT */
+.left {
+width: 30%;
+background: #f4f4f4;
+padding: 20px;
+}
+
+.photo {
+width: 120px;
+height: 120px;
+border-radius: 50%;
+display: block;
+margin: auto;
+}
+
+.left h2 {
+margin-top: 25px;
+color: #4caf50;
+}
+
+.left ul {
+padding-left: 20px;
+}
+
+.hobbies i {
+font-size: 22px;
+margin: 8px;
+}
+
+/* RIGHT */
+.right {
+width: 70%;
+background: #1e1e1e;
+color: white;
+padding: 30px;
+}
+
+.right h1 {
+font-size: 36px;
+}
+
+.right h1 span {
+color: #4caf50;
+}
+
+.right h2 {
+color: #4caf50;
+margin-top: 30px;
+}
+
+.right section p {
+line-height: 1.6;
+}
+
+
+
+
+	
